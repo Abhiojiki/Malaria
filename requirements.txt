@@ -1,0 +1,9 @@
+numpy 
+keras
+Keras-Preprocessing 
+matplotlib   
+numpy 
+streamlit == 1.29.0
+tensorflow
+tensorflow-hub
+
