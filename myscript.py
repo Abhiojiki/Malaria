@@ -1,1 +1,0 @@
-streamlit run /Users/TG/opt/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py
